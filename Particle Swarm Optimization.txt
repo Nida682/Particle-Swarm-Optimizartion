@@ -1,0 +1,13 @@
+2. Particle Swarm Optimization (PSO)
+
+Description:
+Particle Swarm Optimization is inspired by the movement of birds or fish. It uses a group of “particles” (solutions) that move through the solution space to find the best answer by following the best-performing particles.
+
+Key idea: Collective intelligence / swarm behavior.
+
+Examples:
+
+1. Neural Network Training
+PSO can optimize weights of a neural network instead of using gradient descent.
+2. Path Optimization (Robotics/IoT)
+Finds the shortest or most efficient path for drones or irrigation systems (related to your smart irrigation project).
